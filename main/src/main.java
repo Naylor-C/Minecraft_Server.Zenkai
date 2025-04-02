@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-public class SimpleMinecraftServer {
+public class Server {
     private static final int PORT = 25565;
 
     public static void main(String[] args) {
